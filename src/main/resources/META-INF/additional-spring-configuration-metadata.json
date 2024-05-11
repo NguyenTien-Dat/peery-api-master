@@ -1,0 +1,14 @@
+{
+	"properties": [
+		{
+			"name": "attachments-path",
+			"type": "java.lang.String",
+			"description": "Nơi lưu ảnh do người dùng up lên"
+		},
+		{
+			"name": "link-base",
+			"type": "java.lang.String",
+			"description": "Base URL cho các đường link"
+		}
+	]
+}

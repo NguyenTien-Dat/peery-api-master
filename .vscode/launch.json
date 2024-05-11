@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-PeeryApplication<peery>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "vn.edu.fpt.peery.PeeryApplication",
+			"projectName": "peery",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
